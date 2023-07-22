@@ -5,7 +5,9 @@
 _CNN (Convolutional Neural Network) - CNNs are useful for finding patterns in images to recognize objects, classes, and categories._
 Import neccessary pakages like keras, tensorflow etc
 LOAD TRAINING, TESTING AND VALIDATION X-Rays Image datasets for COVID-19, PNEUMONIA, TUBERCULOSIS (TB) seperately in Jupyter Notebook.
+
 ![datasets](https://github.com/rithanyarb/Prediction-of-Symptomatic-Diseases-using-Machine-Learning-Techniques/assets/127092743/4b5b0c8d-6a55-4094-88d6-9807e7b9df64)
+
 Follow the code... and create a model and save.
 
 ### Test each model for a new xray image and see predict a result by it's accuracy.
