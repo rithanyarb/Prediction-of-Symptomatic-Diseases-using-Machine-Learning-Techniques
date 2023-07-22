@@ -13,6 +13,6 @@ Follow the code... and create a model and save.
 ### Test each model for a new xray image and see predict a result by it's accuracy.
 ***Example***
 
-<img width="398" alt="gh1" src="https://github.com/rithanyarb/Prediction-of-Symptomatic-Diseases-using-Machine-Learning-Techniques/assets/127092743/dc9cb10d-5442-4664-a30a-aa74c6947380">
-<img width="347" alt="gh2" src="https://github.com/rithanyarb/Prediction-of-Symptomatic-Diseases-using-Machine-Learning-Techniques/assets/127092743/4e88dd5b-1f6f-4544-888e-f6122d4c04b3">
+<img width="350" alt="gh1" src="https://github.com/rithanyarb/Prediction-of-Symptomatic-Diseases-using-Machine-Learning-Techniques/assets/127092743/dc9cb10d-5442-4664-a30a-aa74c6947380">
+<img width="350" alt="gh2" src="https://github.com/rithanyarb/Prediction-of-Symptomatic-Diseases-using-Machine-Learning-Techniques/assets/127092743/4e88dd5b-1f6f-4544-888e-f6122d4c04b3">
 <img width="340" alt="gh3" src="https://github.com/rithanyarb/Prediction-of-Symptomatic-Diseases-using-Machine-Learning-Techniques/assets/127092743/e184d746-d589-43d5-939c-4e2a377b3feb">
