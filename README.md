@@ -15,11 +15,11 @@ LOAD TRAINING, TESTING AND VALIDATION X-Rays Image datasets for COVID-19, PNEUMO
       
 ***2) Go to code Pneumonia XRAY test.ipynb and create a model and save it.***
 
-***3) Do the same for TB(Tuberculosis)-TB testing.ipynb and Covid-19 -COVID-19 testing.ipynb*** 
+***3) Do the same for TB(Tuberculosis)-TB testing.ipynb and Covid-19 -COVID-19 testing.ipynb.*** 
 
-***4) Finally go to TESTING XRAY.ipynb and upload saved models of Pneumonia, TB and COVID-19 respectively***
+***4) Finally go to TESTING XRAY.ipynb and upload saved models of Pneumonia, TB and COVID-19 respectively.***
 
-***Congratulations! Now you created a Disease Predicting Machine Learning Model*** 
+***Congratulations! Now you created a Disease Predicting Machine Learning Model.*** 
 
 
 ### OUTPUT RESULT : 
