@@ -23,7 +23,7 @@ LOAD TRAINING, TESTING AND VALIDATION X-Rays Image datasets for COVID-19, PNEUMO
 
 
 ### OUTPUT RESULT : 
-### Test each model for a new xray image and predict a result by it's accuracy.
+### Test each model with a new xray image and predict a result by it's accuracy.
 ***Example***
 
 <img width="398" alt="gh1" src="https://github.com/rithanyarb/Prediction-of-Symptomatic-Diseases-using-Machine-Learning-Techniques/assets/127092743/dc9cb10d-5442-4664-a30a-aa74c6947380">
