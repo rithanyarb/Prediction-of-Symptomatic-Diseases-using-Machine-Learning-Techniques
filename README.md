@@ -13,8 +13,15 @@ Follow the code... and create a model and save.
 ### Steps to follow:
 
 ***1) Download Pneumonia chest-xrays image dataset from kaggle and split into TRAIN, TEST and VALIDATION datasets
-      eg. https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia. 
-   2) Go to code ***
+      eg. https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia.***
+      
+***2) Go to code Pneumonia XRAY test.ipynb and create a model and save it.***
+
+***3) Do the same for TB(Tuberculosis)-TB testing.ipynb and Covid-19 -COVID-19 testing.ipynb*** 
+
+***4) Finally go to TESTING XRAY.ipynb and upload saved models of Pneumonia, TB and COVID-19 respectively***
+
+***Congratulations! Now you created a Disease Predicting Machine Learning Model*** 
 
 ### Test each model for a new xray image and predict a result by it's accuracy.
 ***Example***
