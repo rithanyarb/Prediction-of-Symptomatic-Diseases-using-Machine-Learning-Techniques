@@ -8,8 +8,6 @@ LOAD TRAINING, TESTING AND VALIDATION X-Rays Image datasets for COVID-19, PNEUMO
 
 ![datasets](https://github.com/rithanyarb/Prediction-of-Symptomatic-Diseases-using-Machine-Learning-Techniques/assets/127092743/4b5b0c8d-6a55-4094-88d6-9807e7b9df64)
 
-Follow the code... and create a model and save.
-
 ### Steps to follow:
 
 ***1) Download Pneumonia chest-xrays image dataset from kaggle and split into TRAIN, TEST and VALIDATION datasets
@@ -24,7 +22,8 @@ Follow the code... and create a model and save.
 ***Congratulations! Now you created a Disease Predicting Machine Learning Model*** 
 
 
-### OUTPUT RESULT : Test each model for a new xray image and predict a result by it's accuracy.
+### OUTPUT RESULT : 
+### Test each model for a new xray image and predict a result by it's accuracy.
 ***Example***
 
 <img width="398" alt="gh1" src="https://github.com/rithanyarb/Prediction-of-Symptomatic-Diseases-using-Machine-Learning-Techniques/assets/127092743/dc9cb10d-5442-4664-a30a-aa74c6947380">
