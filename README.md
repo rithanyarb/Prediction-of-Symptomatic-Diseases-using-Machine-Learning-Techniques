@@ -14,7 +14,7 @@ Load TRAINING, TESTING AND VALIDATION X-Rays Image datasets for COVID-19, PNEUMO
 
 ### Steps to follow:
 
-***1) Download Pneumonia chest-xrays image dataset from kaggle and split into TRAIN, TEST and VALIDATION datasets
+***1) Download Pneumonia chest-xrays image dataset from kaggle and split it into TRAIN, TEST and VALIDATION datasets
       eg. https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia.***
       
 ***2) Go to code Pneumonia XRAY test.ipynb and create a model and save it.***
